@@ -334,7 +334,7 @@ public class GameActivity extends AppCompatActivity {
             }
             handler.postDelayed(runnable,20);
         }
-        else if (score >= 200)
+        else if (score >= 1000)
         {
             handler.removeCallbacks(runnable);
             constraintLayout.setEnabled(false);
