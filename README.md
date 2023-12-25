@@ -1,4 +1,5 @@
-# Balloon Game
+# Fly or Die
+Help the access point to reach its nest.
 
 [![MCSimple](https://img.shields.io/badge/MCSimple-Fly_or_Die-brightgreen?logo=MCSimple&link=https%3A%2F%2Fmcsimple.net
 )](https://mcsimple.net)
